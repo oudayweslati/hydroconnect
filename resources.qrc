@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>logo_hydroconnect.png</file>
+    <file>theme_hydroconnect.qss</file>
+  </qresource>
+</RCC>
